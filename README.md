@@ -1,9 +1,9 @@
-We choose this project is a simple Android application developed from our Wireless and Mobile Programming class for our Software Programming week 7 project on Introduction to Git and Github , Week 7. 
-The project it self is involves of managing employee data with functionalities such as viewing, adding, and updating employee records.
+We choose this project is a simple Android application developed from our Wireless and Mobile Programming class for our Software Programming week 7 project on Introduction to Git and Github. 
+The project it self is involves of managing employee data with functionalities such as adding, viewing, and updating employee records.
 
 The Features are: 
-1. View employee details
-2. Add new employee
+1. Add new employee
+2. View employee details
 3. Update employee information
 4. Store data locally using SQLite
 
